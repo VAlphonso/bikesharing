@@ -10,6 +10,7 @@
 *.userosscache
 *.sln.docstates
 
+Resources/
 config.py
 config.js
 .DS_Store
